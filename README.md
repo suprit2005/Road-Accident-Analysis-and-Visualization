@@ -104,12 +104,5 @@ The dashboard enables users to explore accident statistics dynamically through f
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add dashboard screenshot here)
-
----
-
-## 👨‍💻 Author
 
 Suprit Mahajan
